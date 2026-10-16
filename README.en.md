@@ -22,7 +22,7 @@ This is a personal, non-commercial design prototype. Permission to use the illus
 
 ## 02 · Six everyday moments in Settings
 
-Each illustration sits beneath the settings content, alongside navigation, controls and journal decorations. The Pets page featuring “夏の気配” is included here too. Click any screenshot to view it at full size.
+Each illustration sits beneath the settings content, alongside navigation, controls and journal decorations. Click any screenshot to view it at full size.
 
 > These simulated pages use the existing skin styles and representative settings controls. The normally scrollable content is expanded vertically so the controls and artwork can be seen together. They are not unaltered screenshots of the running application. UI text in the screenshots remains in Chinese.
 
@@ -65,7 +65,7 @@ Each illustration sits beneath the settings content, alongside navigation, contr
 </tr>
 </table>
 
-The first five Settings illustrations retain their full compositions. “夏の気配” on the Pets page uses a landscape crop. Titles and artist credits appear on the photo borders; links to the full original works are below.
+Titles and artist credits appear on the photo borders; links to the full original works are below.
 
 ## Illustrations and production credits
 
