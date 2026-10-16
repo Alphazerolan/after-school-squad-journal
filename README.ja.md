@@ -31,7 +31,7 @@
 <td width="50%" valign="top">
 <h3>一般設定</h3>
 <a href="previews/settings-general.png"><img src="previews/settings-general.png" alt="一般設定" width="100%"></a>
-<p>氷色の写真用紙、雪の結晶とマフラー。</p>
+<p>氷色の写真用紙、六花の雪の結晶とマフラーを巻いた雪だるま。</p>
 </td>
 <td width="50%" valign="top">
 <h3>モデル</h3>

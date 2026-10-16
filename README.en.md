@@ -31,7 +31,7 @@ Each illustration sits beneath the settings content, alongside navigation, contr
 <td width="50%" valign="top">
 <h3>General</h3>
 <a href="previews/settings-general.png"><img src="previews/settings-general.png" alt="General" width="100%"></a>
-<p>Icy blue photo paper, snowflakes and a scarf.</p>
+<p>Icy blue photo paper, six-armed snowflakes and a little snowman wearing a scarf.</p>
 </td>
 <td width="50%" valign="top">
 <h3>Models</h3>

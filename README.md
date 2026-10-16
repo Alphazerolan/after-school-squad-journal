@@ -31,7 +31,7 @@
 <td width="50%" valign="top">
 <h3>通用设置</h3>
 <a href="previews/settings-general.png"><img src="previews/settings-general.png" alt="通用设置" width="100%"></a>
-<p>冰蓝相纸、雪花与围巾。</p>
+<p>冰蓝相纸、六瓣雪花与戴围巾的小雪人。</p>
 </td>
 <td width="50%" valign="top">
 <h3>模型</h3>
