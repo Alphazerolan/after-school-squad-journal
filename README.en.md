@@ -81,7 +81,7 @@ Titles and artist credits appear on the photo borders; links to the full origina
 
 ## Illustrations and production credits
 
-The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below; the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
+The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below (from Pixiv): [artist’s profile](https://www.pixiv.net/users/3063728/artworks); the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
 
 | Placement | Original work |
 | --- | --- |
