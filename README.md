@@ -75,13 +75,21 @@
 <p>拂晓与黄昏双照片，搭配蓝橙格纹胶带。</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Web 插件</h3>
+<a href="previews/settings-web.png"><img src="previews/settings-web.png" alt="Web 插件" width="100%"></a>
+<p>浅蓝与橙色条纹胶带、午餐纸签和牛奶盒涂鸦。</p>
+</td>
+<td></td>
+</tr>
 </table>
 
 作者与作品名标在照片白边，完整原作见下方链接。
 
 ## 插画与制作说明
 
-页面中的插画与左下角 Q 版人物贴纸均为 **Koe@寝不足** 的作品。插画来源见下表（来自 P 站），[画师主页](https://www.pixiv.net/users/3063728/artworks)；Q 版贴纸来源为画师的[哔哩哔哩动态](https://www.bilibili.com/opus/938087270536183840)。纸张、胶带、界面图标及汽水等周边装饰由本项目制作，部分使用 AI 辅助生成，并非画师原作的一部分。
+页面中的插画与左下角 Q 版人物贴纸均为 **Koe@寝不足** 的作品。插画来源见下表（来自 P 站及画师 X 原帖），[画师主页](https://www.pixiv.net/users/3063728/artworks)；Q 版贴纸来源为画师的[哔哩哔哩动态](https://www.bilibili.com/opus/938087270536183840)。纸张、胶带、界面图标及汽水等周边装饰由本项目制作，部分使用 AI 辅助生成，并非画师原作的一部分。
 
 | 展示位置 | 原作 |
 | --- | --- |
@@ -94,6 +102,7 @@
 | 宠物 | [夏の気配](https://www.pixiv.net/artworks/98313271) |
 | 账号与余额 | [シネマ🎬](https://x.com/Koe_Nemu/status/1793287183694217506) |
 | 使用统计 | [栏杆双图（展示标签：拂晓／黄昏）](https://x.com/Koe_Nemu/status/1793653257379950875) |
+| Web 插件 | [唐揚げを食べたい気分🍗](https://x.com/Koe_Nemu/status/1792194921761579318/photo/1) |
 | 设置页左下角 | [Q 版人物贴纸](https://www.bilibili.com/opus/938087270536183840) |
 
 ## 授权状态

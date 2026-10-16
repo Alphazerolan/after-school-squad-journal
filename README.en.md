@@ -75,13 +75,21 @@ Each illustration sits beneath the settings content, alongside navigation, contr
 <p>Dawn and dusk photos with blue and orange gingham tape.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Web plugins</h3>
+<a href="previews/settings-web.png"><img src="previews/settings-web.png" alt="Web plugins" width="100%"></a>
+<p>Blue and orange striped tape, a lunch note and a milk-carton doodle.</p>
+</td>
+<td></td>
+</tr>
 </table>
 
 Titles and artist credits appear on the photo borders; links to the full original works are below.
 
 ## Illustrations and production credits
 
-The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below (from Pixiv): [artist’s profile](https://www.pixiv.net/users/3063728/artworks); the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
+The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below (from Pixiv and the artist’s X posts): [artist’s profile](https://www.pixiv.net/users/3063728/artworks); the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
 
 | Placement | Original work |
 | --- | --- |
@@ -94,6 +102,7 @@ The illustrations and the chibi character sticker at the lower left are works by
 | Pets | [夏の気配](https://www.pixiv.net/artworks/98313271) |
 | Account and balance | [シネマ🎬](https://x.com/Koe_Nemu/status/1793287183694217506) |
 | Usage statistics | [Two railing illustrations (display labels: Dawn / Dusk)](https://x.com/Koe_Nemu/status/1793653257379950875) |
+| Web plugins | [唐揚げを食べたい気分🍗](https://x.com/Koe_Nemu/status/1792194921761579318/photo/1) |
 | Lower-left corner of Settings | [Chibi character sticker](https://www.bilibili.com/opus/938087270536183840) |
 
 ## Permission status
