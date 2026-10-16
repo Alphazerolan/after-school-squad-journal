@@ -20,7 +20,7 @@ This is a personal, non-commercial design prototype. Permission to use the illus
 
 > The main interface is reconstructed using the current skin styles and a demo layout. Conversations, account details and usage figures are demonstration data.
 
-## 02 · Six everyday moments in Settings
+## 02 · Everyday moments in Settings
 
 Each illustration sits beneath the settings content, alongside navigation, controls and journal decorations. Click any screenshot to view it at full size.
 
@@ -63,13 +63,25 @@ Each illustration sits beneath the settings content, alongside navigation, contr
 <p>A paper clip, blue note and lemon soda.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Account and balance</h3>
+<a href="previews/settings-account.png"><img src="previews/settings-account.png" alt="Account and balance" width="100%"></a>
+<p>A cinema group photo, ticket and after-school journal label.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Usage statistics</h3>
+<a href="previews/settings-usage.png"><img src="previews/settings-usage.png" alt="Usage statistics" width="100%"></a>
+<p>Dawn and dusk photos with blue and orange gingham tape.</p>
+</td>
+</tr>
 </table>
 
 Titles and artist credits appear on the photo borders; links to the full original works are below.
 
 ## Illustrations and production credits
 
-All seven original illustrations come from **[Koe@寝不足 on Pixiv](https://www.pixiv.net/users/3063728/artworks)**. Paper, tape, icons, the small chibi sticker at the lower left and soda decorations were produced for this project, partly with AI assistance. These additions are not part of the artist’s original illustrations.
+The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below; the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
 
 | Placement | Original work |
 | --- | --- |
@@ -80,6 +92,9 @@ All seven original illustrations come from **[Koe@寝不足 on Pixiv](https://ww
 | Agent presets | [星の手紙🌟](https://www.pixiv.net/artworks/118816328) |
 | Archived conversations | [夏が終わる前に](https://www.pixiv.net/artworks/139476059) |
 | Pets | [夏の気配](https://www.pixiv.net/artworks/98313271) |
+| Account and balance | [シネマ🎬](https://x.com/Koe_Nemu/status/1793287183694217506) |
+| Usage statistics | [Two railing illustrations (display labels: Dawn / Dusk)](https://x.com/Koe_Nemu/status/1793653257379950875) |
+| Lower-left corner of Settings | [Chibi character sticker](https://www.bilibili.com/opus/938087270536183840) |
 
 ## Permission status
 

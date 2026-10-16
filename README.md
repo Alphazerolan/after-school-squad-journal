@@ -20,7 +20,7 @@
 
 > 主界面由当前皮肤样式与演示布局重建；会话、账号和用量均为展示数据。
 
-## 02 · 设置页里的六段日常
+## 02 · 设置页里的日常
 
 插画放在设置内容下方，与导航、表单和手账装饰一起呈现。点击截图可查看大图。
 
@@ -63,13 +63,25 @@
 <p>回形针、蓝色纸签与柠檬汽水。</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>账号与余额</h3>
+<a href="previews/settings-account.png"><img src="previews/settings-account.png" alt="账号与余额" width="100%"></a>
+<p>电影合照、票根与「放課後記錄」纸签。</p>
+</td>
+<td width="50%" valign="top">
+<h3>使用统计</h3>
+<a href="previews/settings-usage.png"><img src="previews/settings-usage.png" alt="使用统计" width="100%"></a>
+<p>拂晓与黄昏双照片，搭配蓝橙格纹胶带。</p>
+</td>
+</tr>
 </table>
 
 作者与作品名标在照片白边，完整原作见下方链接。
 
 ## 插画与制作说明
 
-上述七幅原作均来自 **[Koe@寝不足 的 Pixiv](https://www.pixiv.net/users/3063728/artworks)**。纸张、胶带、图标、左下角 Q 版贴纸及汽水等界面装饰由本项目制作，部分使用 AI 辅助生成，并非画师原作的一部分。
+页面中的插画与左下角 Q 版人物贴纸均为 **Koe@寝不足** 的作品。插画来源见下表；Q 版贴纸来源为画师的[哔哩哔哩动态](https://www.bilibili.com/opus/938087270536183840)。纸张、胶带、界面图标及汽水等周边装饰由本项目制作，部分使用 AI 辅助生成，并非画师原作的一部分。
 
 | 展示位置 | 原作 |
 | --- | --- |
@@ -80,6 +92,9 @@
 | Agent 预设 | [星の手紙🌟](https://www.pixiv.net/artworks/118816328) |
 | 已归档会话 | [夏が終わる前に](https://www.pixiv.net/artworks/139476059) |
 | 宠物 | [夏の気配](https://www.pixiv.net/artworks/98313271) |
+| 账号与余额 | [シネマ🎬](https://x.com/Koe_Nemu/status/1793287183694217506) |
+| 使用统计 | [栏杆双图（展示标签：拂晓／黄昏）](https://x.com/Koe_Nemu/status/1793653257379950875) |
+| 设置页左下角 | [Q 版人物贴纸](https://www.bilibili.com/opus/938087270536183840) |
 
 ## 授权状态
 
