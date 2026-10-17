@@ -93,6 +93,12 @@ Titles and artist credits appear on the photo borders; links to the full origina
 
 Ivory canvas on a pale wooden board, secured by four thumbtacks, with graph-paper and ruled-paper messages.
 
+### Remote access · Address book
+
+![Remote access · Address book](previews/remote-address-book.png)
+
+A blue spine, ivory ruled paper and alphabet tabs, retaining the plugin’s actual connection messages and pairing controls.
+
 ## Illustrations and production credits
 
 The illustrations and the chibi character sticker at the lower left are works by **Koe@寝不足**. Illustration sources are listed below (from Pixiv and the artist’s X posts). Artist profiles: [Pixiv](https://www.pixiv.net/users/3063728/artworks) · [X](https://x.com/Koe_Nemu); the chibi sticker comes from the artist’s [Bilibili post](https://www.bilibili.com/opus/938087270536183840). Paper, tape, UI icons and soda decorations were produced for this project, partly with AI assistance. These surrounding decorations are not part of the artist’s original works.
